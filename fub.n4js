@@ -2,3 +2,6 @@ let foo = "bar";
 var foo = "bar";
 class Dum {
 }
+/*
+-*- mode: javascript;-*-
+*/
